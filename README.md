@@ -1,7 +1,7 @@
 # biodep
 ## Hola amigos
 ## Hola antonio
-<<<<<<< HEAD
+TETE<<<<<<< HEAD
 
 
 ## Buenas, estoy haciendo algo simultaneamente a vver qué pasa
